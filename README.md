@@ -91,7 +91,7 @@ The first 3 deliverables are found in the jupyter notebook. Out of the two model
 
 ## Demo
 
-[BFSI_report.docx](https://github.com/user-attachments/files/19906968/BFSI_report.docx)
-https://drive.google.com/file/d/1EK_0-VHydfx2wJR7wDvlOJobj7X_dUX1/view?usp=sharing
+- [BFSI_report.docx](https://github.com/user-attachments/files/19906968/BFSI_report.docx)
+- https://drive.google.com/file/d/1EK_0-VHydfx2wJR7wDvlOJobj7X_dUX1/view?usp=sharing
 
 
